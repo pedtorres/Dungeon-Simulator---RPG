@@ -16,7 +16,7 @@ SALAS = [
     [8, 9, 0]
     ]
 
-while interação < 7:
+while interação < 7: 
     try:
         if(salaAtual == 9):
             print("Você está na sala ",salaAtual,": Venceu ! Parabéns !! ")   
@@ -33,10 +33,10 @@ while interação < 7:
         SALAS[8][2] = random.randint(1, 5)
         interação += 1
 
-    except:
+    except: 
         caminho = 0
         print("Caminho Invalido !")
 
-else:
+else: 
     print("Você perdeu ! Atingiu o nivel maximo de jogadas") 
     
