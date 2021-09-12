@@ -41,5 +41,5 @@ Pedro Henrique Silva Torres Souza - 21579020 <br>
 
 <h1 align="center"> Desafios </h1>
 
-<p> :skull: Ao chegar na sala número 8, os aventureiros serão levados para um local desconhecido por caírem em um portal, sendo assim seus destinos serão sorteados, podendo ser qualquer sala entre 1, 2, 3, 4 e 5. 
+<p> :milky_way: Ao chegar na sala número 8, os aventureiros serão levados para um local desconhecido por caírem em um portal, sendo assim seus destinos serão sorteados, podendo ser qualquer sala entre 1, 2, 3, 4 e 5. 
 <p> :skull: Os aventureiros terão um total de 7 escolhas para conseguirem chegar na sala número 9 e saírem do labirinto vitoriosos.
