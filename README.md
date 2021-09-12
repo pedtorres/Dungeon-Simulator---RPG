@@ -37,7 +37,7 @@ Pedro Henrique Silva Torres Souza - 21579020 <br>
 <br>
 </h1>
 
-<p> :wrench: Para seguir por um caminho será necessário escolher entre o número 1 e 2, que representarão o caminho vermelho e o esquerdo, respectivamente.
+<p> :wrench: Para seguir por um caminho será necessário escolher entre os números 1 e 2, que representarão os caminhos vermelho e esquerdo, respectivamente.
 
 <h1 align="center"> Desafios </h1>
 
