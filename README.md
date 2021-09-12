@@ -33,7 +33,6 @@ Pedro Henrique Silva Torres Souza - 21579020 <br>
 <p> :pencil:  Ao entrar na Dungeon os aventureiros da guilda de heróis se encontrarão em um labirinto:
 
 <h1 align="center">
-<br>
 <img src = "https://i.imgur.com/eZVxas9.png" alt="Win11Check" width="600">
 <br>
 </h1>
